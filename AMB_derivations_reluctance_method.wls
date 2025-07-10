@@ -1,9 +1,6 @@
 #!/usr/bin/env wolframscript
 (* ::Package:: *)
 
-
-
-
 (* Derivation for flux density levels in airgap due to only PM *)
 
 Clear["Global`*"]
